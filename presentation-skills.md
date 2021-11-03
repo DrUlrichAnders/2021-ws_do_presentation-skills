@@ -49,3 +49,11 @@
 ## Presentation visualization
 
 - not use much words in one slide and make it simple with the headlines
+
+---
+
+## Time Management
+
+- Own your presentation and manage it's time (not to long or short)
+
+---
