@@ -29,5 +29,6 @@
 
 - adapters
 - screens
+- full screen mode
 
 ---
