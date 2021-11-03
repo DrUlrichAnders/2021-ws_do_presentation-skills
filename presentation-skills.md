@@ -5,7 +5,7 @@
 ## Content
 
 - WHAT
-- WHY
+- WHY (or start with WHY)
 - HOW
 
 ---
