@@ -1,1 +1,1 @@
-# Notes on presentation skills from lectures Digital Organization 
+# Notes on presentation skills from lecture Digital Organization

@@ -24,3 +24,10 @@
 - keep eye contact
 
 ---
+
+## Ensure technical setups
+
+- adapters
+- screens
+
+---
