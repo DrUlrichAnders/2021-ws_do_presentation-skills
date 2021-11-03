@@ -32,3 +32,7 @@
 - full screen mode
 
 ---
+
+## Presentation visualization
+
+- not use much words in one slide and make it simple with the headlines
