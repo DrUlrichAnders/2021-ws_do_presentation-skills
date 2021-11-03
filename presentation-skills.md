@@ -18,6 +18,19 @@
 
 ---
 
+## Examples
+
+- use examples to explain problems
+- you can also start with an example
+
+---
+
+## Pictures
+
+- use pictures to explain concepts rather than words
+
+---
+
 ## Eye contact
 
 - don't look at screen behind you
