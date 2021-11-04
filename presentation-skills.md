@@ -15,6 +15,8 @@
 - from general to specific
 - from core to outer layers
 - from need to know to nice to know
+- suck out the essence from your topic!
+- Provocative introduction quote
 
 ---
 
@@ -57,3 +59,13 @@
 - Own your presentation and manage it's time (not to long or short)
 
 ---
+## Presentation skills
+
+- stay in control of your lecture/presentation
+- focus the attention on you
+
+---
+## Questions
+
+- include auditorium
+- don't let the auditorium take over 
