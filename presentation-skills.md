@@ -69,3 +69,9 @@
 
 - include auditorium
 - don't let the auditorium take over 
+
+---
+## Body language
+- if you don't know where to put your hands hold a pen or sheet of paper with both hands
+- try to stand still and don't wobble too much
+- stand straigth and do not lean against a wall
