@@ -75,3 +75,9 @@
 - if you don't know where to put your hands hold a pen or sheet of paper with both hands
 - try to stand still and don't wobble too much
 - stand straigth and do not lean against a wall
+
+--- 
+### Index cards
+- Do not use index cards
+- Shorten the content and focus on the main points of your topic
+- Say less and know what you are talking about, rather than too much and not be sure yourself
